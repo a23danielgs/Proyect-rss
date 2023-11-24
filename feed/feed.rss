@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Example Feed</title>
-         <description>Insert witty or insightful remark here</description>
-         <link>http://example.org/</link>
-        <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
-        <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+        <title>Games online</title>
+         <description>literaly only two pretty poopy games :D</description>
+         <link>https://a23danielgs.github.io/Proyect-rss/</link>
+        <pubDate>Fri, 24 Nov 2023 09:40:44 GMT</pubDate>
+        <managingEditor>a23danielgs@iessanclemente.net</managingEditor>
          <item>
-            <title>Test page</title>
-            <link>http://example.org/test.html</link>
-            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
-            <description>Some text.</description>
+            <title>Ikariam</title>
+            <link>https://a23danielgs.github.io/Proyect-rss/</link>
+            <pubDate>Fri, 24 Nov 2023 09:40:44 GMT</pubDate>
+            <description>Game looks pretty old, but quite charming, farming building your village that type of smoke</description>
         </item>
      </channel>
 </rss>
